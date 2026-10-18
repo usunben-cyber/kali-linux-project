@@ -222,5 +222,5 @@ Overall, the project provided practical experience with essential Linux commands
 ## Author
 
 - **Name:** Osawaru Usunobun
-- **GitHub:** [Add your GitHub profile URL here](https://github.com/usunben-cyber/).
+- **GitHub:** [https://github.com/usunben-cyber/]
 - **Contact:** usunben@yahoo.com
